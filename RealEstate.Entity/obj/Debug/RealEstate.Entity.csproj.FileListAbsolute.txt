@@ -1,0 +1,12 @@
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\bin\Debug\RealEstate.Entity.dll.config
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\bin\Debug\RealEstate.Entity.dll
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\bin\Debug\RealEstate.Entity.pdb
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\bin\Debug\EntityFramework.dll
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\bin\Debug\EntityFramework.xml
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\obj\Debug\RealEstate.Entity.csproj.AssemblyReference.cache
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\obj\Debug\RealEstate.Entity.csproj.CoreCompileInputs.cache
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\obj\Debug\RealEstate.Entity.csproj.CopyComplete
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\obj\Debug\RealEstate.Entity.dll
+C:\Users\akinc\source\repos\RealEstate\RealEstate.Entity\obj\Debug\RealEstate.Entity.pdb
